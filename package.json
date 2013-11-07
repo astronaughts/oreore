@@ -1,0 +1,19 @@
+{
+  "name": "oreore",
+  "version": "1.0.0",
+  "description": "ore no CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "astronaughts",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "oreore": "bin/oreore"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/astronaughts/oreore.git"
+  }
+}
